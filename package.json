@@ -9,6 +9,7 @@
     "ioredis": "^1.15.0",
     "laravel-elixir": "^4.0.0",
     "mysql": "^2.10.2",
+    "node-env-file": "^0.1.8",
     "socket.io": "^1.4.5"
   }
 }
